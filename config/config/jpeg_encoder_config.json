@@ -1,0 +1,15 @@
+{
+  "jpeg_quality_factor": "FILL_ME",
+  "subsampling": "FILL_ME (e.g., 4:4:4 or 4:2:0)",
+  "optimize_huffman": "FILL_ME (true/false)",
+  "dct_method": "FILL_ME (e.g., float/int/fast)",
+  "qtable_value_bounds": {
+    "qmin": "FILL_ME (e.g., 1)",
+    "qmax": "FILL_ME (e.g., 255)"
+  },
+  "color_mode_handling": {
+    "natural_images": "FILL_ME (RGB or YCbCr)",
+    "medical_images": "FILL_ME (grayscale handling)"
+  },
+  "notes": "This file documents the encoder settings used to generate the run-level metrics reported in the paper."
+}
